@@ -3,7 +3,7 @@ import { useLanguage } from '../i18n/LanguageContext';
 
 export default function SEOHead({ title, description, path = '/', noIndex = false }) {
   const { lang } = useLanguage();
-  const baseUrl = 'https://fruitpartysitesi.com';
+  const baseUrl = 'http://eltresearchconference.com';
   const fullUrl = `${baseUrl}${path}`;
 
   return (
