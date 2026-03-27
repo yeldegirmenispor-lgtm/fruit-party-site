@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://eltresearchconference.com/sitemap.xml
+Sitemap: http://uyuyang.com/sitemap.xml
